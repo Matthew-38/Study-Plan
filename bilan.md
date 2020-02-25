@@ -12,6 +12,7 @@ Aspects à apprendre ou à développer :
 1. Numpy library
 1. ...
 
+
 #### BASH command line
 Estimation actuelle : 🟊🟊🟊
 
@@ -23,11 +24,13 @@ Aspects à apprendre ou à développer :
 * révision :
   * grep et find
 
+
 #### Javascript
 Estimation actuelle : 🟊🟊🟊
 
 Aspects à apprendre ou à développer :
 * Explorer les bibliothèques pour développer ce point
+
 
 #### WEB génerique
 Estimation actuelle : 🟊🟊🟊🟊
@@ -36,8 +39,10 @@ Aspects à apprendre ou à développer :
 * DNS, domains et hosting
 * HTTP, FTP, UDP
 
+
 #### Websocket
 Estimation actuelle : 🟊🟊🟊
+
 
 #### GIT
 Estimation actuelle : 🟊🟊
@@ -47,6 +52,7 @@ Aspects à apprendre ou à développer :
   * ! C'est souvent posé en question d'entretien d'embauche !
 * Resolution de problèmes de GIT Merge
 * Revoir les bases pour mieux le connaitre en fond
+
 
 #### Docker
 Estimation actuelle : 🟊🟊
@@ -58,15 +64,23 @@ Aspects à apprendre ou à développer :
 * Pratiquer avec des Docker Images de MySQL et LAMP pour tester
 * Apprendre à utiliser Docker Compose
 
+
 #### Bases de données
 * MySQL : 🟊🟊🟊
 * Redis : 🟊🟊
 * MongoDB : 🟊🟊
+
 But : Améloirer ces trois avec des tutos et pratique
+
+
+
 
 ## Competences à apprendre
 
 Autres langages : Go, Rust, Java, C# ?
+
+
+
 
 ## Possibles autres pistes à explorer
 
