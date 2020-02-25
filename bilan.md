@@ -5,6 +5,7 @@ Roadmap de référence : [roadmap.sh/backend](http://www.roadmap.sh/backend)
 
 #### Python
 Estimation actuelle : 🟊🟊🟊🟊
+
 Aspects à apprendre ou à développer :
 
 1. Multithreading et concurrency
@@ -13,6 +14,7 @@ Aspects à apprendre ou à développer :
 
 #### BASH command line
 Estimation actuelle : 🟊🟊🟊
+
 Aspects à apprendre ou à développer :
 * Nouveaux commandes/utils :
   * lsof
@@ -23,11 +25,13 @@ Aspects à apprendre ou à développer :
 
 #### Javascript
 Estimation actuelle : 🟊🟊🟊
+
 Aspects à apprendre ou à développer :
 * Explorer les bibliothèques pour développer ce point
 
 #### WEB génerique
 Estimation actuelle : 🟊🟊🟊🟊
+
 Aspects à apprendre ou à développer :
 * DNS, domains et hosting
 * HTTP, FTP, UDP
@@ -37,6 +41,7 @@ Estimation actuelle : 🟊🟊🟊
 
 #### GIT
 Estimation actuelle : 🟊🟊
+
 Aspects à apprendre ou à développer :
 * Usage plus avancé et plus de pratique
   * ! C'est souvent posé en question d'entretien d'embauche !
@@ -45,7 +50,9 @@ Aspects à apprendre ou à développer :
 
 #### Docker
 Estimation actuelle : 🟊🟊
+
 Je l'ai utilisé dans mon dernier travail, mais il me manque la pratique
+
 Aspects à apprendre ou à développer :
 * Revoir les bases, un tutoriel etc
 * Pratiquer avec des Docker Images de MySQL et LAMP pour tester
