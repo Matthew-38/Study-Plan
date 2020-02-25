@@ -44,6 +44,12 @@ Aspects à apprendre ou à développer :
 Estimation actuelle : 🟊🟊🟊
 
 
+#### Django
+Estimation actuelle : 🟊🟊
+* REST APIs: 🟊🟊
+* Swagger: 🟊🟊
+
+
 #### GIT
 Estimation actuelle : 🟊🟊
 
