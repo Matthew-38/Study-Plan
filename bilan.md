@@ -50,8 +50,8 @@ Estimation actuelle : 🟊🟊
 * Swagger: 🟊🟊
 
 
-#### GIT
-Estimation actuelle : 🟊🟊
+#### GIT<pre>                 [++++++++++++++++|_______________________________________]</pre>
+* Git Game               [==>_____________________________________________________]
 
 Aspects à apprendre ou à développer :
 * Usage plus avancé et plus de pratique
@@ -60,8 +60,8 @@ Aspects à apprendre ou à développer :
 * Revoir les bases pour mieux le connaitre en fond
 
 
-#### Docker
-Estimation actuelle : 🟊🟊
+#### Docker                 [++++++++++++++++|_______________________________________]
+
 
 Je l'ai utilisé dans mon dernier travail, mais il me manque la pratique
 
