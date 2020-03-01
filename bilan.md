@@ -60,23 +60,26 @@ Aspects à apprendre ou à développer :
 * Revoir les bases pour mieux le connaitre en fond
 
 
-#### Docker #===================|==>
+#### Docker #===================|===>
+* Docker-compose #==|=>
 
 
 Je l'ai utilisé dans mon dernier travail, mais il me manque la pratique
 
 Aspects à apprendre ou à développer :
-* Revoir les bases, un tutoriel etc
+* ~Revoir les bases, un tutoriel etc~
 * Pratiquer avec des Docker Images de MySQL et LAMP pour tester
-* Apprendre à utiliser Docker Compose
+* ~Apprendre à utiliser Docker Compose~
 
+#### MySQL #==========================|===>
+* MySQL Workbench #=>
 
-#### Bases de données
-* MySQL : 🟊🟊🟊
+#### Autres Bases de données
+
 * Redis : 🟊🟊
 * MongoDB : 🟊🟊
 
-But : Améloirer ces trois avec des tutos et pratique
+But : Améloirer avec des tutos et pratique
 
 
 
@@ -92,3 +95,6 @@ Autres langages : Go, Rust, Java, C# ?
 
 * Apprendre un autre langage, par exemple C++ qui est très demandé et serait plus facile puisque je connais déjà C.
 * Reapprendre PHP et d'autres langages que je connaissais autrefois pour me remettre à niveau en cas de besoin
+---------------------------
+
+todo: Faire un HTML dans ce projet qui montre mieux le taux d'avancement des compétences
